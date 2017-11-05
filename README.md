@@ -1,1 +1,1 @@
-# litecoin-detached-sigs
+# bigcoin-detached-sigs
