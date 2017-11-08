@@ -1,1 +1,1 @@
-# bigcoin-detached-sigs
+# duckcoin-detached-sigs
